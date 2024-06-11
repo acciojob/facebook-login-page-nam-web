@@ -1,1 +1,58 @@
 /*  your css code here. If applicable */
+.container{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+.left{
+	width: 50%;
+}
+.fb_logo{
+	width: 80%;
+}
+h2{
+	font-size:20px;
+	margin-left:25px;
+}
+.right{
+	width:50%;
+	display:block;
+}
+input{
+	font-size:20px;
+	width:300px;
+	margin:10px;
+	border-radius:5px;
+	height:40px
+	
+}
+.log{
+	width:300px;
+	margin-left:10px;
+	border-radius:5px;
+	margin-top:10px;
+	color:white;
+	background-color:blue;
+	height:40px;
+	outline:none;
+	border:none;
+	margin-bottom:15px;
+}
+a{
+	text-decoration:none;
+	margin-left:65px;
+}
+form .line{
+	margin-left:10px;
+}
+.acc{
+	width:300px;
+	margin-left:10px;
+	border-radius:5px;
+	color:white;
+	background-color:green;
+	height:40px;
+	outline:none;
+	border:none;
+	margin-top:15px;
+}
